@@ -1,8 +1,9 @@
 ---
-date: 2024-09-28 
-tags: 
-    - nvim
+date: 2024-09-28
+tags:
+  - nvim
 ---
+
 
 # nvim_buffers_windows_tabs
 
