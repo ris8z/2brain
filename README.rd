@@ -1,5 +1,15 @@
-# quindi tutte le nove notes vanno in inbox (creando bash script)
-# gli butti il templates che sta nella cartella (con plugin per nvim)
-# ogni cartella dentro nots e' un tag
-# famo malo script che ti permette di buttare o conservare le cartelle in inbox (bash + nvim)
-# poi malo script che prende le note e le mette nella cartella giusta (pk un solo tag e' consetito)
+# Obsidian note vault
+
+Structure:
+
+1_inbox
+2_note
+3_templates 
+4_main
+
+# workflow:
+
+    with command on "name of the note", a new note is created in inbox
+    with alias or, a can choose which note save and which delete
+    the saved notes are moved to the main folder
+    the with the command og (all the notes are moved from main to notes, in a folder named as its first tag)
