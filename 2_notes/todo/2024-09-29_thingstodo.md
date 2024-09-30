@@ -8,6 +8,8 @@ tags:
 
 
 # uni:
+- network2 
+    - [ ] do the cisco course
 - haskell
     - [ ] Watch 1hr tutorial [here](https://youtu.be/02_H3LjqMr8?feature=shared) 
     - [ ] lab 3
@@ -26,3 +28,5 @@ tags:
 # workflow
 - [ ] copying in nvim should copy to the clipboard
 - [ ] swap ctl and capslock (must work also in tmux)
+
+
