@@ -199,3 +199,57 @@ fr = foldl (8) 1 foldlist
 ```
 
 ### Tuple
+
+```haskell
+t = (1, "a")
+me = ("giuseppe", 21)
+name = fst me
+age = snd me
+
+names = ["giuseppe", "mario", "marco"]
+ages = [21, 18, 19]
+names_and_ages = zip names ages -- [("giuseppe",21),("mario",18),("marco",19)]
+```
+
+### Function
+- Main function:
+```haskell
+import Data.List
+import System.IO
+
+
+main = do
+    putStrLn "what is your name?"
+    name <- getLine
+    putStrLn ("hello " ++ name)
+
+```
+
+> [!TIP]
+> you can create a bin file of this by `ghc --make filename.hs` 
+or just load the file in ghci with `:load filename.hs` and type `main` 
+
+- Function prototype
+```hasell
+-- funcName :: typeFirstPartm -> typeSecondParm -> typeReturned
+-- funcName param1 param2 = operations (returned value)
+```
+> [!WARNING]
+> function can not begin with Upper case latter 
+
+* Function exmaples
+```haskell
+addMe :: Int -> Int -> Int
+addMe x y = x + y
+
+addTuples :: (Int, Int) -> (Int, Int) -> (Int, Int)
+addTuples (x, y) (x2, y2) = (x + x2, y + y2)
+
+factioral :: Int -> Int 
+factioral 0 = 1
+factioral n = n * factorial(n - 1)
+```
+
+- Guards
+
+min 37.51
