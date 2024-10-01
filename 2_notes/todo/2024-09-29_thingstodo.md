@@ -26,7 +26,8 @@ tags:
     - [ ] back end with flask/express?
 
 # workflow
-- [ ] copying in nvim should copy to the clipboard
+- [ ] get the coping work in tmux diocane
+- [x] copying in nvim should copy to the clipboard
 - [ ] swap ctl and capslock (must work also in tmux)
 
 
