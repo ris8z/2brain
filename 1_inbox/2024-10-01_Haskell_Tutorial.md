@@ -99,6 +99,7 @@ floorVal = floor 9.999 --- always rounding down
 ```haskell
 trueAndFalse = True && False
 trueOrFalse = True || False
+notequalto = True /= False
 notTrue = not(True)
 
 ```
@@ -250,6 +251,124 @@ factioral 0 = 1
 factioral n = n * factorial(n - 1)
 ```
 
-- Guards
+### Guards
+```haskell
+isEven :: Int -> Bool
+isEven x 
+    |   x `mod` 2 == 0 = True
+    |   otherwise = False
 
-min 37.51
+whatGrade :: Int -> String
+whatGrade age
+    |   (5 <= age) && (age <= 10) = "Elementari"
+    |   (11 <= age) && (age <= 13) = "Medie"
+    |   (14 <= age) && (age <= 19) = "Superirori"
+    |   (20 <= age)  = "Probabilmente disoccupato"
+    |   otherwise = "malo kid"
+```
+
+### Where
+```haskell
+ratingRATEO :: Int -> Int -> String
+ratingRATEO kill death
+    |   avg <= 0.9 = "pretty bad"
+    |   avg <= 1.2 = "average player"
+    |   avg <= 1.5 = "good player" 
+    |   avg <= 1.8 = "aim demon" 
+    |   otherwise = "you should go pro tenz fears u"
+    where avg = fromIntegral kill / fromIntegral death
+```
+
+### (x:xs) pattern matching
+ ```haskell
+--Easy example
+getListItems :: [Int] -> String
+getListItems [] = "Your list is empty"
+getListItems (x:[]) = "Your list is made by just one element " ++ show x
+getListItems (x: y: []) = "Your list is mady by just two elements " ++ show x ++ " " ++ show y
+getListItems (x:xs) = "Your list start with " ++ show x ++ " and continue with " ++ show xs
+
+--String equal with recursion and (x:xs) pattern matching
+areStringEqual :: String -> String -> Bool
+areStringEqual [] [] = True
+areStringEqual (x:xs) (y:ys) = x == y && areStringEqual xs ys
+areStringEqual _ _ = False -- _ _ is all the other combination i dont care
+-- we can cover the other two cases with this line above
+--  areStringEqual [a] [] = False
+--  areStringEqual [] [a] = False
+ ```
+
+### all@ keyword
+```haskell
+getFirstChr :: String -> String
+getFirstChr all@(x:xs) = "the first letter in " ++ all ++ " is " ++ [x]
+```
+
+> [!TIP]
+> is u use show x u get the whole list like: [x], if u want to print just x
+just use ++ [x] so u use concatenation e u get one final string to print
+
+
+### Map and High order functions
+```haskell
+-- just means that function can be used as normal var
+
+times4 :: Int -> Int
+times4 x = x * 4
+listTimes4 = map times4 [1,2,3,4,5] -- [4,8,12,16,20]
+
+--Take a function as a argmuent (how does map work)
+
+newmap :: (Int -> Int) -> [Int] -> [Int]
+newmap f [] = []
+newmap f (x:xs) = f x : newmap f xs
+listTimes4Again = newmap times4 [1,2,3,4,5] -- [4,8,12,16,20]
+
+-- (Int -> Int) -> [Int] -> [Int]
+--  this line means that our newmap function is expecting two arguments
+--      (Int -> Int) a function that takes an int and return and int
+--      [Int] a list of interger
+--  and returning
+--      [Int] a list of integer
+--  Ez.
+
+--Returing a function
+getAddFunc :: Int -> (Int -> Int)
+getAddFunc x y = x + y
+
+add3 = getAddFunc 3
+fourPlus3 = add3 4
+--Int -> (Int -> Int)
+--  this means that the function takes as parmater an integer (that we labal with x)
+--  and return a function that takes itself an integetr as paramter (that we label with y) and return, the x + y function
+--  where x is a constant 3 in these case, and y is the variable
+```
+
+## Lambda function (function with no name)
+```haskell
+-- exmaple:
+-- \x -> x + 1
+doubleTo101 = map (\x -> x * 2) [1..10] -- [2,4,6,8,10,12,14,16,18,20] 
+```
+## if statment expression
+```haskell
+--they are just expression so after the then and else u need to put the retourn value
+doubleEvenNumber :: Int -> Int
+doubleEvenNumber x =
+    if (x `mod` 2 /= 0)
+        then x
+        else x * 2
+--so it's not if that execute this block of code, is if that return this value
+```
+
+## Case (it's just a switch statement like expression) 
+```haskell
+state :: Int -> String
+state x = case x of
+    1 -> "the light is on"
+    0 -> "the light is off"
+    _ -> "the light is funcking bugged"
+```
+
+min 57.8
+
