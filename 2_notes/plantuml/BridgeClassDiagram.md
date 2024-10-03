@@ -18,7 +18,7 @@ class MatchManager {
     + startGame()
     + endGame()
     + manageRounds()
-    + tackScores()
+    + trackScores()
 }
 
 class Round {
