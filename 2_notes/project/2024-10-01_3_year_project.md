@@ -8,7 +8,7 @@ tags:
 
 ## for this semester
 
-    - [ ] join a team 
+    - [x] join a team 
     - [ ] create your reapo 
     - [ ] submit a project proposal 
     - [ ] get it approved 
