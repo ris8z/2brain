@@ -7,15 +7,19 @@ tags:
 # thingstodo
 
 
+# routine
+- do a previous neetcode ex
+- do a new one
 # uni:
+
 - network2 
     - [ ] do the cisco course
 - haskell
-    - [ ] Watch 1hr tutorial [here](https://youtu.be/02_H3LjqMr8?feature=shared) 
-    - [ ] lab 3
+    - [x] Watch 1hr tutorial [here](https://youtu.be/02_H3LjqMr8?feature=shared) 
+    - [x] lab 3
 - Brige project 
     - [ ] try out typescript
-    - [ ] do ur part on call base diagram (plantUML)
+    - [x] do ur part on call base diagram (plantUML)
     
 # side project:
 - roomie 
@@ -26,7 +30,7 @@ tags:
     - [ ] back end with flask/express?
 
 # workflow
-- [ ] get the coping work in tmux diocane
+- [x] get the coping work in tmux diocane
 - [x] copying in nvim should copy to the clipboard
 - [ ] swap ctl and capslock (must work also in tmux)
 
