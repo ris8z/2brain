@@ -6,6 +6,7 @@
  - 2_note
  - 3_templates 
  - 4_main
+ - 5_images
 
 ## workflow:
 
