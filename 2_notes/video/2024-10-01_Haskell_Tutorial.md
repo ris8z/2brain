@@ -60,7 +60,7 @@ import System.IO
 
 ### Math functions:
 
-```hasell
+```haskell
 addEx = 5 + 3
 subEx = 5 - 4
 multEx = 5 * 3

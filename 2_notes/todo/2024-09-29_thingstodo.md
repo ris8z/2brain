@@ -6,6 +6,9 @@ tags:
 
 # thingstodo
 
+# fast
+- main web site with hugo (theme= Blowfish)
+
 
 # routine
 - do a previous neetcode ex
