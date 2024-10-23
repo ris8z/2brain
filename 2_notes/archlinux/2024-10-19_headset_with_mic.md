@@ -2,10 +2,6 @@
 date: 2024-10-19 
 tags: 
     - archlinux
-hubs: 
-    -   "[[]]"
-urls:
-    -
 ---
 
 # headset_with_mic
