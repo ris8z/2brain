@@ -5,6 +5,9 @@ tags:
 ---
 
 
+clone graph
+distrak algorithm
+
 # routine after fast road to amazon
 for 4h
 - 1h theory of system desing

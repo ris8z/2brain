@@ -3,10 +3,10 @@ date: 2024-10-23
 tags: 
     - network2
 hubs:
-    - [[2024-10-23_network2_lab2|network2_lab2]]
+    - "[[2024-10-23_network2_lab2|network2_lab2]]"
 ---
 
-# Network2_lab2_packettrecaer
+# Network2_lab2_packet_tracer
 
 ## Use a console connection to access each switch
 
