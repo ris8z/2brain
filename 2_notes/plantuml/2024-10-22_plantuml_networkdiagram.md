@@ -9,7 +9,7 @@ tags:
 @startuml
 
 node "Linux Server" {
-    frame "Match Manager (Node.js)" {
+    frame "Match Manager (python3 flask-socketIO)" {
         component "WSS (WebSocket Secure)" as WSS
     }
 }

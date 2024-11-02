@@ -5,13 +5,8 @@ tags:
 ---
 
 
-clone graph
+pacific atalantic water flow
 distrak algorithm
-
-# routine after fast road to amazon
-for 4h
-- 1h theory of system desing
-- 1h leetcode problem
 
 
 # thingstodo
@@ -19,7 +14,7 @@ for 4h
 # fast
 - ui copule second assiment
 - Brige project 
-    - [ ] do your part on the network part of the project 
+    finisci il calcolo dei punti ma puoi prima fare la tua parte del progetto
  
 # chill
 - add pic to linkedin/website/github 
