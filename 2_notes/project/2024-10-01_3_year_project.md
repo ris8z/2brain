@@ -9,8 +9,8 @@ tags:
 ## for this semester
 
     - [x] join a team 
-    - [ ] create your reapo 
-    - [ ] submit a project proposal 
-    - [ ] get it approved 
+    - [X] create your reapo 
+    - [X] submit a project proposal 
+    - [X] get it approved 
     - [ ] write a functional specification 
     

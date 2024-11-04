@@ -5,19 +5,12 @@ tags:
 ---
 
 
-pacific atalantic water flow
-distrak algorithm
 
 
 # thingstodo
 
-# fast
-- ui copule second assiment
-- Brige project 
-    finisci il calcolo dei punti ma puoi prima fare la tua parte del progetto
  
 # chill
-- add pic to linkedin/website/github 
 - finish the personal website and buy a domain
 - network2 
     - [ ] do the cisco course
@@ -34,3 +27,4 @@ distrak algorithm
 
 # workflow
 - [ ] images support nvim 
+- [ ] nautilus file mangaer (and customize it with css) 
