@@ -1,11 +1,10 @@
 ---
-date: 2024-10-26 
-tags: 
-    -
-hubs: 
-    -   "[[]]"
+date: 2024-10-26
+tags:
+  - python
+hubs:
+  - "[[]]"
 urls:
-    -
 ---
 
 # emit_flasksocketio

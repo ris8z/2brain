@@ -20,7 +20,6 @@ tags:
 
 ## workflow
 - [ ] images support nvim 
-- [ ] nautilus file mangaer (and customize it with css) 
 - [ ] finish the personal website and buy a domain
 
 
