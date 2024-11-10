@@ -19,9 +19,7 @@ tags:
     - [ ] start the backend with flask
 
 ## workflow
+
+- [ ] images support nvim (also copy and paste into vim like obsidian)
 - [ ] spelling check plugin nvim (only in md)
-- [ ] images support nvim 
 - [ ] finish the personal website and buy a domain
-
-
-
