@@ -9,6 +9,12 @@ tags:
 
 # thingstodo
 
+## things to do
+
+- blockchain requirments 
+- ai project
+- bridge
+
 ## uni 
 - network2 
     - [ ] do the cisco course
@@ -20,6 +26,7 @@ tags:
 
 ## workflow
 
+- [ ] change the defult file mangaer also when it get called by zen browser
 - [ ] images support nvim (also copy and paste into vim like obsidian)
 - [ ] spelling check plugin nvim (only in md)
 - [ ] finish the personal website and buy a domain
