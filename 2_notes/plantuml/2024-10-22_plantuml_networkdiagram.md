@@ -15,26 +15,26 @@ node "Linux Server" {
 }
 
 node Client1 {
-    node "Browser" as c1 {
-        component "website (React)" as WB1
+    node "Pygame" as c1 {
+        component "wss client" as WB1
     }
 }
 
 node Client2 {
-    node "Browser" as c2 {
-        component "website (React)" as WB2
+    node "Pygame" as c2 {
+        component "wss client" as WB2
     }
 }
 
 node Client3 {
-    node "Browser" as c3 {
-        component "website (React)" as WB3
+    node "Pygame" as c3 {
+        component "wss client" as WB3
     }
 }
 
 node Client4 {
-    node "Browser" as c4 {
-        component "website (React)" as WB4
+    node "Pygame" as c4 {
+        component "wss client" as WB4
     }
 }
 

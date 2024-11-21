@@ -12,14 +12,13 @@ tags:
 ## things to do
 
 - blockchain requirments 
-- ai project
+
+- AI project (ai playing chess against each other visually)
+
 - bridge
 
-## uni 
-- network2 
-    - [ ] do the cisco course
 
-## side project:
+## ## side project:
 - roomie 
     - [ ] query preview (esmpio unione sovietica serach archive) ui
     - [ ] start the backend with flask
