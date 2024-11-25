@@ -19,7 +19,7 @@ tags:
 
 
 ## ## side project:
-- roomie 
+- roomie  (questo lo voglio startare se riesci plis nelle vacanze di natale) :)
     - [ ] query preview (esmpio unione sovietica serach archive) ui
     - [ ] start the backend with flask
 
