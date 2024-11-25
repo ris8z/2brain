@@ -6,6 +6,10 @@ tags:
 
 # Connect_BlueTooth_Device_Headset
 
+> [!TIP]
+> lo so che sei qui per connettere qualche cuffie sgrave che comprerai
+in futuro, RICORDA METTILE IN COMPARING MODE DIO CAN (di solito tieni premuto testo accensione)
+
 > [!CAUTION]
 > This guide is for pulseaudio, requirements:
 `sudo pacman -S bluez bluez-utils pulseaudio-bluetooth pavucontrol`
