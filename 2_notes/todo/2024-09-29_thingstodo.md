@@ -5,6 +5,9 @@ tags:
 ---
 
 
+- AI working on his web site
+- imporve UI OF AI
+- docs
 
 
 # thingstodo
