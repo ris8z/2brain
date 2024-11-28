@@ -1,7 +1,7 @@
 ---
 date: 2024-11-28 
 tags: 
-    - #project
+    - project
 ---
 
 # data_flow_diagram_blockchainvotingsystem

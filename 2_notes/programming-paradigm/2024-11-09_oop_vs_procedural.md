@@ -1,7 +1,7 @@
 ---
 date: 2024-11-09 
 tags: 
-    - #programming-paradigm
+    - programming-paradigm
 ---
 
 # oop_vs_procedural

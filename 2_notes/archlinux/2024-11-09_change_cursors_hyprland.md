@@ -1,7 +1,7 @@
 ---
 date: 2024-11-09 
 tags: 
-    - #archlinux
+    - archlinux
 ---
 
 # change_cursors_hyprland
