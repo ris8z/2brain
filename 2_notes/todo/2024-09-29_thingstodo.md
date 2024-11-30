@@ -5,20 +5,15 @@ tags:
 ---
 
 
-- AI working on his web site
-- imporve UI OF AI
-- docs
-
 
 # thingstodo
 
 ## things to do
 
-- blockchain requirments 
+- finsh AI
+- Add Amazon intership on IntraPlace
 
-- AI project (ai playing chess against each other visually)
 
-- bridge
 
 
 ## ## side project:
@@ -31,4 +26,4 @@ tags:
 - [ ] change the defult file mangaer also when it get called by zen browser
 - [ ] images support nvim (also copy and paste into vim like obsidian)
 - [ ] spelling check plugin nvim (only in md)
-- [ ] finish the personal website and buy a domain
+- [ ] finish the personal website and buy a domain (over e c caz so 2 mesi)
