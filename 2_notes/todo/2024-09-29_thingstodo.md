@@ -23,6 +23,7 @@ tags:
 
 ## workflow
 
+- [ ] vimium chrome
 - [ ] change the defult file mangaer also when it get called by zen browser
 - [ ] images support nvim (also copy and paste into vim like obsidian)
 - [ ] spelling check plugin nvim (only in md)
