@@ -10,8 +10,8 @@ tags:
 
 ## things to do
 
-- finsh AI
-- Add Amazon intership on IntraPlace
+- submit UI report
+- studing for the 5 final exams :0
 
 
 
@@ -28,3 +28,7 @@ tags:
 - [ ] images support nvim (also copy and paste into vim like obsidian)
 - [ ] spelling check plugin nvim (only in md)
 - [ ] finish the personal website and buy a domain (over e c caz so 2 mesi)
+
+## dim
+
+- json ser, deser python
