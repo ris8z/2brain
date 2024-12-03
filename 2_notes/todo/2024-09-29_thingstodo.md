@@ -10,7 +10,6 @@ tags:
 
 ## things to do
 
-- submit UI report
 - studing for the 5 final exams :0
 
 
