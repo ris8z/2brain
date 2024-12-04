@@ -1,5 +1,4 @@
 ---
-
 date: 2024-12-03 
 tags: 
     - CA318
@@ -25,3 +24,10 @@ url:
 
 ## Heuristic Search
 [[2024-12-04_Heuristic-Search|Heuristic Search]]
+
+## Machine Learning - Introduction 
+[[2024-12-04_Machine-Learning---Introduction|Machine Learning   Introduction]]
+
+## Neural networks
+[[2024-12-04_Single-layer-Neural-Networks-(Perceptrons)|Single layer Neural Networks (Perceptrons)]]
+
