@@ -30,4 +30,8 @@ url:
 
 ## Neural networks
 [[2024-12-04_Single-layer-Neural-Networks-(Perceptrons)|Single layer Neural Networks (Perceptrons)]]
+[[2024-12-04_Multy-layer-Neural-Networks|Multi-layer Neural Networks]]
+maybe adding the tip from week 9
 
+rush week 10-11-12
+go on the pastpapers
