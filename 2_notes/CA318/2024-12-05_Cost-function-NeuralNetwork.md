@@ -11,9 +11,11 @@ hubs:
 ## La funzione di costo $J$ 
 
 $J$ è una funzione scalare che rappresenta l'errore totale del modello. Dipende dai pesi 
+
 $$
 \mathbf{w} = (w_1, w_2, \dots, w_n)
 $$ 
+
 e dai dati di input.
 
 
@@ -46,16 +48,19 @@ Ogni componente del gradiente misura quanto e in che direzione modificare ciascu
 - Esempio
 
   - Se:
+
   $$
   J(w_1, w_2) = w_1^2 + w_2^2
   $$
 
   - Le derivate parziali sono:
+
   $$
   \frac{\partial J}{\partial w_1} = 2w_1, \quad \frac{\partial J}{\partial w_2} = 2w_2
   $$
 
   - Il gradiente diventa:
+  
   $$
   \nabla J(w_1, w_2) = \begin{bmatrix}
   2w_1 \\
