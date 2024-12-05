@@ -31,7 +31,8 @@ url:
 ## Neural networks
 [[2024-12-04_Single-layer-Neural-Networks-(Perceptrons)|Single layer Neural Networks (Perceptrons)]]
 [[2024-12-04_Multy-layer-Neural-Networks|Multi-layer Neural Networks]]
-maybe adding the tip from week 9
+[[2024-12-05_Cost-function-NeuralNetwork|cost function NeuralNetwork]]
+[[2024-12-05_BackPropagation-learning-alogrithm|backPropagation learning alogrithm]]
 
-rush week 10-11-12
-go on the pastpapers
+## Types of learning
+[[2024-12-05_Types-of-learning|Types of learning]]
