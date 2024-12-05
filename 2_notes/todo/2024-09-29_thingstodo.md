@@ -11,7 +11,13 @@ tags:
 ## things to do
 
 - studing for the 5 final exams :0
-
+- done:
+ - AI almost done (10 - 11 - 12 weeks remainin)
+- to do:
+ - network2
+ - devidsincler
+ - CP
+ - OOPA
 
 
 
