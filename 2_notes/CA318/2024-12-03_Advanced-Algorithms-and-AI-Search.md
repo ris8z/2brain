@@ -36,3 +36,9 @@ url:
 
 ## Types of learning
 [[2024-12-05_Types-of-learning|Types of learning]]
+[[2024-12-05_Deep-Learning-and-ReLua-function|Deep Learning and ReLu function]]
+
+## Genetic alogrithm
+[[2024-12-05_Machine-evolution-and-Genetic-Algorithm|Machine evolution and Genetic Algorithm]]
+
+
