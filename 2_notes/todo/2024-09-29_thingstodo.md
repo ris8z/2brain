@@ -12,11 +12,18 @@ tags:
 
 - studing for the 5 final exams :0
 - done:
- - AI almost done (10 - 11 - 12 weeks remainin)
+  - AI theroy
 - to do:
- - network2
+ - Pracitce AI pasat papers
+ - network2 (start theory)
+
+- not a problem util 12
  - devidsincler
+
+- we hope not a probelm
  - CP
+
+- not a problem until 17
  - OOPA
 
 
