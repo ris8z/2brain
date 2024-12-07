@@ -15,17 +15,8 @@ tags:
   - AI theroy
 - to do:
  - Pracitce AI pasat papers
- - network2 (start theory)
-
-- not a problem util 12
- - devidsincler
-
-- we hope not a probelm
- - CP
-
-- not a problem until 17
- - OOPA
-
+ - network2 (start theory) 
+  - get good at subnetting and supernetting ex
 
 
 ## ## side project:
