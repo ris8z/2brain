@@ -12,6 +12,7 @@ hubs:
 
 ![[Pasted image 20241204190620.png]]
 - Input nodes (or unit) are connected (typically full) to a node (or multiple nodes) in the next layer.
+
 - x = $(I_1, I_2, \ldots, I_n)$
 - w = $(w_1, w_2, \ldots, w_n)$
 - *The Perceptron* apply the summation to all his inputs and weights and then reutrn the step function of the summation. 

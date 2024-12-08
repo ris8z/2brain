@@ -30,7 +30,7 @@ $$
 f(x) = h(x)
 $$
 - it works as follow.
-![[https://humphryscomputing.com/Notes/Morelli.images/6.gif]]
+![alt text](https://humphryscomputing.com/Notes/Morelli.images/6.gif) 
 - it choose the state with the best evaulation (by jumping the one with the worst).
 - in poor words sorts the queue and as a key it as the evaluation function.
 - Inaccuarte heuristic
