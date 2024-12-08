@@ -29,10 +29,13 @@ tags:
 - [ ] change from bash to zhs to get better autocomplete
 - [ ] vimium chrome
 - [ ] change the defult file mangaer also when it get called by zen browser
-- [ ] images support nvim (also copy and paste into vim like obsidian)
+
+- [x] images support nvim 
+  - [ ] (also copy and paste into vim like obsidian) not yet :0
+
 - [ ] spelling check plugin nvim (only in md)
 - [ ] finish the personal website and buy a domain (over e c caz so 2 mesi)
 
 ## dim
-
+- GA with python and pygame seller problem
 - json ser, deser python

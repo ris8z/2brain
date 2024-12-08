@@ -16,16 +16,21 @@ hubs:
 - w = $(w_1, w_2, \ldots, w_n)$
 - *The Perceptron* apply the summation to all his inputs and weights and then reutrn the step function of the summation. 
 - *Summation*
+
 $$
 \sum_{i=1}^{n} w_i \cdot I_i
 $$
+
 - *Step Function*
+
 $$
-\text{if } \sum_i w_i I_i \geq t \text{ then } y = 1 \\
+\text{if} \sum_i w_i I_i \geq t \text{ then } y = 1 \\
 $$
+
 $$
 \text{else (if } \sum_i w_i I_i < t\text{) then } y = 0
 $$
+
 - *Outcome*
   - let's consider just a 2-dimension input 
   - $x = (I_1, I_2)$

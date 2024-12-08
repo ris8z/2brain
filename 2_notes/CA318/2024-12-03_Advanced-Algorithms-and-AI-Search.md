@@ -2,8 +2,6 @@
 date: 2024-12-03 
 tags: 
     - CA318
-hubs: 
-    -   "[[2024-12-03_exams-3year|exams 3year]]"
 url:
     -   "https://humphryscomputing.com/ca318/notes.html"
 ---
@@ -40,5 +38,3 @@ url:
 
 ## Genetic alogrithm
 [[2024-12-05_Machine-evolution-and-Genetic-Algorithm|Machine evolution and Genetic Algorithm]]
-
-
