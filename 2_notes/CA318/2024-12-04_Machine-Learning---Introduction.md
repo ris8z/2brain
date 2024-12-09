@@ -47,7 +47,7 @@ hubs:
   - interpolation not possible (you can not say the capital of france is Lond-Rome bc is between italy and uk)
 - *Worst target*
   - Chaotic functions
-- *Whis list*
+- *Whish list*
   - an alogrithm that learn which input are important
   - Not like in the ex of sad/happy faces (using Hamming Distance)
 

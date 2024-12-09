@@ -37,7 +37,7 @@ $$
   - $x = (I_1, I_2)$
   - $w = (w_1 = 1, w_2 = 1)$
   - $t = 2$
-  - $(\sum_{i=1}^{n} w_i \cdot I_i = I_1 + I_2 )<= 2$
+  - $(\sum_{i=1}^{n} w_i \cdot I_i = I_1 + I_2 )>= 2$
 ![[Pasted image 20241204192613.png]]
   - all the point greater than line $I_1 + I_2 = 2$ are going to fire 1 as output
   - Basically the perceptron draws a line that split the space in two part (in more dimension it draws an hyperplane)

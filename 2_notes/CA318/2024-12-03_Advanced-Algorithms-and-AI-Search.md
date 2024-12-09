@@ -38,3 +38,7 @@ url:
 
 ## Genetic alogrithm
 [[2024-12-05_Machine-evolution-and-Genetic-Algorithm|Machine evolution and Genetic Algorithm]]
+
+## Bonus question (Support Vector Machine (SVM))
+
+
