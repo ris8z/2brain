@@ -4,18 +4,15 @@ tags:
     - todo
 ---
 
-
-
 # thingstodo
 
 ## things to do
 
 - studing for the 5 final exams :0
 - done:
-  - AI theroy
+  - AI Exam: well done fucking dragon
 - to do:
- - Pracitce AI pasat papers
- - network2 (start theory) 
+ - network2 (clutch it plis) 
   - get good at subnetting and supernetting ex
 
 
@@ -26,8 +23,9 @@ tags:
 
 ## workflow
 
-- [ ] change from bash to zhs to get better autocomplete
-- [ ] vimium chrome
+- [ ] set up the obsidian vault also on android
+- [ ] change from bash to *zhs* to get better autocomplete [youtube tutorial](https://youtu.be/ud7YxC33Z3w?feature=shared) 
+- [ ] *vimium chrome*
 - [ ] change the defult file mangaer also when it get called by zen browser
 
 - [x] images support nvim 

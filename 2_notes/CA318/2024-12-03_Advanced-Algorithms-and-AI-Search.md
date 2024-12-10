@@ -38,6 +38,7 @@ url:
 
 ## Genetic alogrithm
 [[2024-12-05_Machine-evolution-and-Genetic-Algorithm|Machine evolution and Genetic Algorithm]]
+[Example GA Python3](https://github.com/ris8z/GeneticAlgorithmStringMatch) 
 
 ## Bonus question (Support Vector Machine (SVM))
 [[2024-12-09_Support-Vector-Machine-(SVM)|Support Vector Machine (SVM)]]
