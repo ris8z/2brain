@@ -11,9 +11,11 @@ tags:
 - studing for the 5 final exams :0
 - done:
   - AI Exam: well done fucking dragon
+  - network2  
 - to do:
- - network2 (clutch it plis) 
-  - get good at subnetting and supernetting ex
+  - david
+  - comparative
+  - ooa&d
 
 
 ## ## side project:
@@ -25,12 +27,7 @@ tags:
 
 - [ ] set up the obsidian vault also on android
 - [ ] change from bash to *zhs* to get better autocomplete [youtube tutorial](https://youtu.be/ud7YxC33Z3w?feature=shared) 
-- [ ] *vimium chrome*
 - [ ] change the defult file mangaer also when it get called by zen browser
-
-- [x] images support nvim 
-  - [ ] (also copy and paste into vim like obsidian) not yet :0
-
 - [ ] spelling check plugin nvim (only in md)
 - [ ] finish the personal website and buy a domain (over e c caz so 2 mesi)
 
