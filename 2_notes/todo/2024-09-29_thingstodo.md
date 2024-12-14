@@ -13,9 +13,9 @@ tags:
   - AI Exam: well done fucking dragon
   - network2  
 - to do:
-  - david
-  - comparative
-  - ooa&d
+  - david (focus 3)
+  - comparative (focus 2)
+  - ooa&d (focus 1)
 
 
 ## ## side project:
