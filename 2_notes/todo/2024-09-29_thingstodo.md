@@ -25,6 +25,7 @@ tags:
 
 ## workflow
 
+- [ ] try out qutebrowser
 - [ ] set up the obsidian vault also on android
 - [ ] change from bash to *zhs* to get better autocomplete [youtube tutorial](https://youtu.be/ud7YxC33Z3w?feature=shared) 
 - [ ] change the defult file mangaer also when it get called by zen browser
