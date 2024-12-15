@@ -13,7 +13,7 @@ tags:
   - AI Exam: well done fucking dragon
   - network2  
 - to do:
-  - david (focus 3)
+  - david (focus 3) (slide 5 after intro)
   - comparative (focus 2)
   - ooa&d (focus 1)
 
