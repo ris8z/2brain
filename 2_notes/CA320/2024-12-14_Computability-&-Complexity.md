@@ -10,11 +10,15 @@ tags:
 [[2024-12-14_Introduction|Basic Logic Here]]
 
 ## Languages & Automation
-| Language                                | Automation                          |
-| --------------                          | ---------------                     |
-|[[2024-12-16_Models-of-Computation]]       | Turing machine                      |
-|[[2024-12-16_Context-Sensitive-Languages]] |[[2024-12-16_Linear-Bounded-Automata]] |
-|[[2024-12-15_Context-Free-Languages]]      |[[2024-12-16_Push-Down-Automa]]        |
-|[[2024-12-15_Regular-Languages]]           |[[2024-12-16_Finite-Automa]]           |
+| Language                                          | Automation                          |
+| --------------                                    | ---------------                     |
+|[[2024-12-16_Recursively-Enumerable-Languages-(REL)]]|[[2024-12-16_Turing-machine]]          |
+|[[2024-12-16_Context-Sensitive-Languages]]           |[[2024-12-16_Linear-Bounded-Automata]] |
+|[[2024-12-15_Context-Free-Languages]]                |[[2024-12-16_Push-Down-Automa]]        |
+|[[2024-12-15_Regular-Languages]]                     |[[2024-12-16_Finite-Automa]]           |
 
+## Undecidability and the Halting Problem
+[[2024-12-16_Undecidability-and-the-Halting-Problem|Undecidability and the Halting Problem]]
 
+## Big O, P, NP
+[[2024-12-16_Big-O-&-P-vs-NP|Big O & P vs NP]]
