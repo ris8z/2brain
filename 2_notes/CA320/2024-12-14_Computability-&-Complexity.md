@@ -20,5 +20,11 @@ tags:
 ## Undecidability and the Halting Problem
 [[2024-12-16_Undecidability-and-the-Halting-Problem|Undecidability and the Halting Problem]]
 
-## Big O, P, NP
+## Big O, P, NP (Skipped) (Che la forza sia con me)
 [[2024-12-16_Big-O-&-P-vs-NP|Big O & P vs NP]]
+
+## Computability vs Complexity
+[[2024-12-17_Computability-vs-Complexity|Computability vs Complexity]]
+
+## Common test question
+[[2024-12-17_Common-test-question-CA320|Common test question]]
