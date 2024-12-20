@@ -6,18 +6,6 @@ tags:
 
 # thingstodo
 
-## things to do
-
-- studing for the 5 final exams :0
-- done:
-  - AI Exam: well done fucking dragon
-  - network2  
-- to do:
-  - david (focus 3) (slide 5 after intro)
-  - comparative (focus 2)
-  - ooa&d (focus 1)
-
-
 ## ## side project:
 - roomie  (questo lo voglio startare se riesci plis nelle vacanze di natale) :)
     - [ ] query preview (esmpio unione sovietica serach archive) ui
@@ -25,13 +13,10 @@ tags:
 
 ## workflow
 
-- [ ] try out qutebrowser
-- [ ] set up the obsidian vault also on android
 - [ ] change from bash to *zhs* to get better autocomplete [youtube tutorial](https://youtu.be/ud7YxC33Z3w?feature=shared) 
-- [ ] change the defult file mangaer also when it get called by zen browser
 - [ ] spelling check plugin nvim (only in md)
 - [ ] finish the personal website and buy a domain (over e c caz so 2 mesi)
 
 ## dim
-- GA with python and pygame seller problem
+- GA with python and pygame travellers salesman problem
 - json ser, deser python
