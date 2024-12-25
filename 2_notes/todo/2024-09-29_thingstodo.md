@@ -21,6 +21,7 @@ tags:
 - change from bash to *zhs* to get better autocomplete [youtube tutorial](https://youtu.be/ud7YxC33Z3w?feature=shared) 
 
 ## dim
+- greedy and dp programming nel meme piu totale libro + es
 - neural network from scratch (handwriteing)
 - GA with python and pygame travellers salesman problem
 - json ser, deser python
