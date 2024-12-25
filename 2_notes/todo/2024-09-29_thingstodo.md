@@ -18,12 +18,9 @@ tags:
 ## workflow
 
 - remap capslock with ctrl
-- fix window command for nvim e tumx
-
-- [ ] change from bash to *zhs* to get better autocomplete [youtube tutorial](https://youtu.be/ud7YxC33Z3w?feature=shared) 
-- [ ] spelling check plugin nvim (only in md)
-- [ ] finish the personal website and buy a domain (over e c caz so 2 mesi)
+- change from bash to *zhs* to get better autocomplete [youtube tutorial](https://youtu.be/ud7YxC33Z3w?feature=shared) 
 
 ## dim
+- neural network from scratch (handwriteing)
 - GA with python and pygame travellers salesman problem
 - json ser, deser python
