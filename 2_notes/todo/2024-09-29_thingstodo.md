@@ -16,8 +16,6 @@ tags:
     - [ ] start the backend with flask
 
 ## workflow
-
-- remap capslock with ctrl
 - change from bash to *zhs* to get better autocomplete [youtube tutorial](https://youtu.be/ud7YxC33Z3w?feature=shared) 
 
 ## dim
