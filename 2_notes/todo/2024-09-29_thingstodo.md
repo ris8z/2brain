@@ -7,8 +7,8 @@ tags:
 # thingstodo
 
 ## blockchain voting system
-- one server just for auth (falsk + sqLite) (email system)
-- another one that just hold private and public key (it use the one for auth services)
+we need to ask, how to handle different user, elettori, candidati, minatori e permessi usando l'autenticazione su due server
+cerca di fare anche l'altro server asap
 
 ## ## side project:
 - roomie  (questo lo voglio startare se riesci plis nelle vacanze di natale) :)
