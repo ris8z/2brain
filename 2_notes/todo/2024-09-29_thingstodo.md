@@ -17,7 +17,6 @@ cerca di fare anche l'altro server asap
 
 
 ## workflow
-- make caps to work as escape when tapped and as ctrl when hold
 - change from bash to *zhs* to get better autocomplete [youtube tutorial](https://youtu.be/ud7YxC33Z3w?feature=shared) 
 
 ## dim

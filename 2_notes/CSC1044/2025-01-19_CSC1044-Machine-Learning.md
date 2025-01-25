@@ -6,6 +6,10 @@ tags:
 
 # CSC1044 Machine Learning
 
+## Papers Presentation
+[[2025-01-20_ML-on-crops-Presentations|Both papers]]
+[[2025-01-20_data-and-method-of-ML-paper-on-crops|My part]]
+
 ## Definition
 ![[Pasted image 20250119162407.png]]
 ML is a subset of AI, allows machines to learn and imporve from exprience
