@@ -6,10 +6,6 @@ tags:
 
 # thingstodo
 
-## blockchain voting system
-we need to ask, how to handle different user, elettori, candidati, minatori e permessi usando l'autenticazione su due server
-cerca di fare anche l'altro server asap
-
 ## ## side project:
 - roomie  (questo lo voglio startare se riesci plis nelle vacanze di natale) :)
     - [ ] query preview (esmpio unione sovietica serach archive) ui
