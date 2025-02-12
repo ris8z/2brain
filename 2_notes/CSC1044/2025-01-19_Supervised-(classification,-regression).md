@@ -1,7 +1,7 @@
 ---
 date: 2025-01-19 
 tags: 
-    -
+    - CSC1044
 hubs: 
     -   "[[2025-01-19_CSC1044-Machine-Learning|CSC1044 Machine Learning]]"
 ---

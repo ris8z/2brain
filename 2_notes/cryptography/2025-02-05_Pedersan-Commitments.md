@@ -167,23 +167,22 @@ $$
 ## note that
 
 ### *Lato Client:*
-Generi il commitment:
+create the commitment
 $$
 c = g^s \cdot h^t \mod p
 $$
-e invii **$s$** e **$t$** al server quando vuoi "aprire" il commitment.
+send **$s$** and **$t$** and the commitment to the server
 
 ---
 
 ### *Lato Server:*
-Usa **$s$** e **$t$** per verificare che il commitment corrisponda al valore ricevuto:
+Use **$s$** and **$t$** to verify the commitment 
 $$
 c' = g^s \cdot h^t \mod p
 $$
-Se **$c' = c$**, il commitment è valido.
+if **$c' = c$**, the commitment is valid.
 
 ---
 
 ### *Generatori $g$ e $h$:*
-I generatori **$g$** e **$h$** devono essere **noti a entrambe le parti**.  
-- Se **non sono pubblici**, devi includerli nella comunicazione.
+The generator **$g$** and  **$h$** must be known **to both client and server**.  
