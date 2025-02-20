@@ -70,7 +70,7 @@ sudo netstat -tulnp | grep 5000
 docker save -o falskappdocker.tar flaskapp-docker
 ```
 
-## User scp to send the .tar image to the server (in this case with aws ec2)
+## User scp to send the .tar image to the server (in this case with aws ec2) (from the client)
 -i is for using private key then the path of them
 then the name of the file you want to upload
 then rootname@publicdns:path_of_where_you_want_to_upload_the_file
@@ -87,3 +87,17 @@ docker load -i flaskappdocker.tar
 ```bash
 docker run -d -p 5000:5000 flaskapp-docker
 ```
+
+## check if flask is running (from the vps)
+```bash
+ps aux | grep flask
+```
+- `a` show process from all users
+- `u` show the proccess's user/owner 
+- `x` show proccess not attached to a terminal
+
+and 
+```bash
+sudo lsof -i :5000
+```
+to get a list of tpc using port 5000
