@@ -20,6 +20,12 @@ tags:
 
 
 
+
+
+
+
+
+
 ## Low
 ### side project:
 - roomie  (questo lo voglio startare se riesci plis nelle vacanze di natale) :)
@@ -27,6 +33,7 @@ tags:
     - [ ] start the backend with flask
 
 ### workflow
+- *vim* for web [github repo](https://github.com/Jelmerro/Vieb)
 - change from bash to *zhs* to get better autocomplete [youtube tutorial](https://youtu.be/ud7YxC33Z3w?feature=shared) 
 
 ### dim
