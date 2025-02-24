@@ -7,23 +7,7 @@ tags:
 # thingstodo
 
 ## High
-### blockchain project 
-
-#### bug to fix
-- user must be allowd to vote only once (backend)
-- when refresh the page we should not be logged out (frontend)
-#### improvment
-- implment the UI From the figma desing (frontend)
-- implment more functions for admin like (edit a candidate or edit the date of end of an election) (front and back)
-
-
-
-
-
-
-
-
-
+bio amazon task
 
 
 ## Low
