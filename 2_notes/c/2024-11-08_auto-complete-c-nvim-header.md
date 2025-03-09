@@ -29,3 +29,7 @@ You can create a `.clangd` file in the root of your project directory with the f
    After creating and editing the `.clangd` file, you may need to restart the LSP server in Neovim:
 
    - Run `:LspRestart` in Neovim or close and reopen Neovim to ensure `clangd` picks up the new configuration.
+
+> [!IMPORTANT]
+> to get it work use include <../include/nameofheader.h> (without this lsp do not work but code yes)
+
